@@ -1,0 +1,108 @@
+2021-08-20T23:29:45+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 612030f2434c4
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 4c2158ccc4
+            [name] => woocommerce
+            [domain] => http://localhost/wordpress
+            [email_address] => mahmoudrabie467@gmail.com
+            [currency_code] => USD
+            [money_format] => $
+            [primary_locale] => en_US
+            [timezone] => +00:00
+            [phone] => 0115903348
+            [address] => Array
+                (
+                    [address1] => Cairo
+                    [city] => Cairo
+                    [province] => EGC
+                    [postal_code] => 11865
+                    [country] => EG
+                    [country_code] => EG
+                    [phone] => 0115903348
+                    [company] => woocommerce
+                )
+
+        )
+
+)
+
+2021-08-20T23:29:49+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 612030f2434c4
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 4c2158ccc4
+            [name] => woocommerce
+            [domain] => http://localhost/wordpress
+            [email_address] => mahmoudrabie467@gmail.com
+            [currency_code] => USD
+            [money_format] => $
+            [primary_locale] => en_US
+            [timezone] => +00:00
+            [phone] => 0115903348
+            [address] => Array
+                (
+                    [address1] => Cairo
+                    [city] => Cairo
+                    [province] => EGC
+                    [postal_code] => 11865
+                    [country] => EG
+                    [country_code] => EG
+                    [phone] => 0115903348
+                    [company] => woocommerce
+                )
+
+        )
+
+)
+
+2021-08-20T23:29:52+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 612030f2434c4
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 4c2158ccc4
+            [name] => woocommerce
+            [domain] => http://localhost/wordpress
+            [email_address] => mahmoudrabie467@gmail.com
+            [currency_code] => USD
+            [money_format] => $
+            [primary_locale] => en_US
+            [timezone] => +00:00
+            [phone] => 0115903348
+            [address] => Array
+                (
+                    [address1] => Cairo
+                    [city] => Cairo
+                    [province] => EGC
+                    [postal_code] => 11865
+                    [country] => EG
+                    [country_code] => EG
+                    [phone] => 0115903348
+                    [company] => woocommerce
+                )
+
+        )
+
+)
+
+2021-08-20T23:29:54+00:00 NOTICE mailchimp-woocommerce-sync.started :: Starting Sync :: Fri, Aug 20, 2021 11:29 PM
+2021-08-20T23:29:55+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons queued :: page 1
+2021-08-20T23:30:27+00:00 NOTICE sync.full_sync_manager.queue :: Starting PRODUCTS queueing.
+2021-08-20T23:30:27+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 1
+2021-08-20T23:30:27+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 2
+2021-08-20T23:30:29+00:00 NOTICE coupon_sync.completed :: Done with the coupon queueing.
+2021-08-20T23:30:29+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 13
+2021-08-20T23:30:31+00:00 NOTICE product_sync.completed :: Done with the product queuing
+2021-08-20T23:30:32+00:00 NOTICE product_submit.success :: addStoreProduct :: #13
+2021-08-20T23:31:37+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 1
+2021-08-20T23:31:39+00:00 NOTICE order_sync.completed :: Done with the order queueing.
+2021-08-20T23:32:36+00:00 NOTICE sync.completed :: Finished Sync :: Fri, Aug 20, 2021 11:32 PM (total time: 00:02:42)
